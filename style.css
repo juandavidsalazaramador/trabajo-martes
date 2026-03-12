@@ -25,52 +25,6 @@ font-size:20px;
 font-weight:500;
 }
 
-nav a{
-color:white;
-text-decoration:none;
-margin-left:25px;
-font-size:15px;
-}
-
-nav a:hover{
-color:#ebd65f;
-}
-
-
-
-
-.about{
-align-items:center;
-justify-content:center;
-gap:60px;
-padding:80px 120px;
-background:white;
-}
-
-
-.about-text{
-max-width:450px;
-}
-
-.about-text h2{
-color:#ff5722;
-font-size:38px;
-margin-bottom:15px;
-}
-
-.about-text p{
-line-height:1.6;
-margin-bottom:20px;
-}
-
-.about-text button{
-background:#ff5722;
-color:white;
-border:none;
-padding:10px 20px;
-border-radius:4px;
-cursor:pointer;
-}
 
 
 
@@ -141,3 +95,4 @@ padding:25px;
 margin-top:50px;
 
 }
+

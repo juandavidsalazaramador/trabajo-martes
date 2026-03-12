@@ -15,7 +15,6 @@ color:#444;
 header{
 background:#e65908;
 color:white;
-display:flex;
 justify-content:space-between;
 align-items:center;
 padding:15px 80px;
@@ -41,7 +40,6 @@ color:#ebd65f;
 
 
 .about{
-display:flex;
 align-items:center;
 justify-content:center;
 gap:60px;
@@ -102,7 +100,7 @@ color:#fcfcfc;
 }
 
 .cards{
-display:flex;
+
 justify-content:center;
 gap:30px;
 flex-wrap:wrap;
@@ -141,4 +139,5 @@ color:white;
 text-align:center;
 padding:25px;
 margin-top:50px;
+
 }
